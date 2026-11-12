@@ -10,19 +10,13 @@ next-env.d.ts
 .env
 .env*.local
 
-# AI Agent & Editor local state
-.agy/
-.remember/
-.cursorrules
+# AI Agent instruction files & hidden state
 AGENTS.md
 CLAUDE.md
 GEMINI.md
-
-# Scratch media & reference captures
-*.mp4
-FULL-Screenshot*.png
-raw_sections/
-reference_frames/
+.agy/
+.remember/
+.cursorrules
 
 # OS & Logs
 .DS_Store
