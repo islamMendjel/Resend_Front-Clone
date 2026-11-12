@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.svg" alt="Resend Logo" width="120" />
+<img src="./logo.png" alt="Resend Logo" width="120" />
 
 # Resend — Front-End Clone
 
