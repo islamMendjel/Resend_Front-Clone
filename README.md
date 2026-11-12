@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://resend-clone.space-z.ai/images/wordmark.svg" alt="Resend Logo" width="120" />
+<img src="./logo.svg" alt="Resend Logo" width="120" />
 
 # Resend — Front-End Clone
 
